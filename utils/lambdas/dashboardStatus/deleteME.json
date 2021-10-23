@@ -1,0 +1,228 @@
+[{
+    "displayName": "NHVcz",
+    "section": "compliance",
+    "parameters": [{
+        "_id": {
+            "$oid": "5fde89a93518d54f48176647"
+        },
+        "type": "eventRule",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": "610c4d986f964f17b83be168"
+        },
+        "type": "eventRule",
+        "order": 1,
+        "color": "yellow",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": "5fde89a93518d54f48176647"
+        },
+        "type": "eventRule",
+        "order": 2,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}, {
+    "displayName": "Velocity",
+    "section": "compliance",
+    "parameters": [{
+        "_id": {
+            "$oid": "5fde89aa3518d54f48176649"
+        },
+        "type": "eventRule",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": "610c4dbd6f964f17b83be169"
+        },
+        "type": "eventRule",
+        "order": 1,
+        "color": "yellow",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": "5fde89aa3518d54f48176649"
+        },
+        "type": "eventRule",
+        "order": 2,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}, {
+    "displayName": "Smoke",
+    "section": "compliance",
+    "parameters": [{
+        "_id": null,
+        "type": "visibleEmissions",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": null,
+        "type": "visibleEmissions",
+        "order": 1,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}, {
+    "displayName": "Analyzer A",
+    "section": "uptime",
+    "parameters": [{
+        "_id": {
+            "$oid": "5fde89aa3518d54f4817664c"
+        },
+        "type": "eventRule",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": "5fde89aa3518d54f4817664c"
+        },
+        "type": "eventRule",
+        "order": 1,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}, {
+    "displayName": "Analyzer B",
+    "section": "uptime",
+    "parameters": [{
+        "_id": {
+            "$oid": "5fde89aa3518d54f4817664d"
+        },
+        "type": "eventRule",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": "5fde89aa3518d54f4817664d"
+        },
+        "type": "eventRule",
+        "order": 1,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}, {
+    "displayName": "CEMS Available",
+    "section": "uptime",
+    "parameters": [{
+        "_id": {
+            "$oid": "5fde89aa3518d54f4817664e"
+        },
+        "type": "eventRule",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": "5fde89aa3518d54f4817664e"
+        },
+        "type": "eventRule",
+        "order": 1,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}, {
+    "displayName": "Gas Flow",
+    "section": "uptime",
+    "parameters": [{
+        "_id": {
+            "$oid": ""
+        },
+        "type": "piTag",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": ""
+        },
+        "type": "eventRule",
+        "order": 1,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}, {
+    "displayName": "Steam Flow",
+    "section": "uptime",
+    "parameters": [{
+        "_id": {
+            "$oid": ""
+        },
+        "type": "piTag",
+        "order": 0,
+        "color": "red",
+        "rule": {
+            "sym": ">",
+            "value": 0
+        }
+    }, {
+        "_id": {
+            "$oid": ""
+        },
+        "type": "eventRule",
+        "order": 1,
+        "color": "green",
+        "rule": {
+            "sym": "=",
+            "value": 0
+        }
+    }]
+}
+]

@@ -1,0 +1,724 @@
+{
+    "statusColors": [
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "123",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "124",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "125",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "compliance",
+        "rowID": "127",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "72 Hours",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "MTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "201",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "red",
+          "hex": "#DC3545"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "yellow",
+          "hex": "#FFC107"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "202",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "203",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6fb02b496f2ae0e0e6845",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6f872b496f2ae0e0e6843",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      },
+      {
+        "section": "uptime",
+        "rowID": "204",
+        "flareID": "5fb6fac8b496f2ae0e0e6844",
+        "period": "QTD",
+        "color": {
+          "name": "green",
+          "hex": "#28A745"
+        }
+      }
+    ]
+  }

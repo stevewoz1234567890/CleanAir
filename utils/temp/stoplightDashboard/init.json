@@ -1,0 +1,43 @@
+{
+  "sections": [{
+      "name": "compliance",
+      "rows": [{
+          "name": "NHVcz",
+          "_id": "NHVcz"
+      }, {
+          "name": "Velocity",
+          "_id": "Velocity"
+      }, {
+          "name": "Smoke",
+          "_id": "VISIBLE_EMISSIONS"
+      }, {
+          "name": "SO2",
+          "_id": "SO2_EMISSIONS"
+      }]
+  }, {
+      "name": "uptime",
+      "rows": [{
+          "name": "Analyzer A",
+          "_id": "Analyzer A"
+      }, {
+          "name": "Analyzer B",
+          "_id": "Analyzer B"
+      }, {
+          "name": "CEMS Available",
+          "_id": "CEMS Available"
+      }]
+  }],
+  "columns": {
+      "flares": [{
+          "name": "AG",
+          "_id": "5fb6fb02b496f2ae0e0e6845"
+      }, {
+          "name": "LIU",
+          "_id": "5fb6f872b496f2ae0e0e6843"
+      }, {
+          "name": "FCC",
+          "_id": "5fb6fac8b496f2ae0e0e6844"
+      }],
+      "periods": ["72 Hours", "MTD", "QTD"]
+  }
+}

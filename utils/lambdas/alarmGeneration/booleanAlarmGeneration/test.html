@@ -1,0 +1,93 @@
+<html>
+
+<head>
+    <style>
+        body {
+            color: black;
+        }
+
+        .styled-table {
+            border-collapse: collapse;
+            margin: 25px 0;
+            font-size: 1em;
+            font-family: sans-serif;
+            min-width: 400px;
+            box-shadow: 0 0 20px rgba(0, 0, 0, 0.15);
+        }
+
+        .styled-table thead tr {
+            background-color: #007cc2;
+            color: #ffffff;
+            text-align: left;
+        }
+
+        .styled-table th,
+        .styled-table td {
+            padding: 12px 15px;
+        }
+
+        .styled-table tbody tr {
+            border-bottom: 1px solid #9c8d8d;
+        }
+
+        .styled-table tbody tr:nth-of-type(even) {
+            background-color: #017ec721;
+        }
+
+        .styled-table tbody tr:nth-of-type(odd) {
+            background-color: #f3f3f3;
+        }
+
+        .styled-table tbody tr:last-of-type {
+            border-bottom: 2px solid #007cc2;
+        }
+    </style>
+</head>
+
+<body>
+    <h1 style="color: #007cc2; text-align: center;">CleanClould</h1>
+    <h2 style="text-align: center;">Alarming Notification</h2>
+    <div style="text-align: center;">
+        The following events have been detected:
+    </div>
+    <table style="width:100%" class="styled-table">
+        <thead>
+            <tr>
+                <th>Alarm Name</th>
+                <th>Start</th>
+                <th>End (Ongoing)</th>
+                <th>Average</th>
+                <th>Min</th>
+                <th>Max</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <td>Test Rule 1</td>
+                <td>Fri, Jun 18, 2021 17:25</td>
+                <td>Fri, Jun 18, 2021 17:25</td>
+                <td>1</td>
+                <td>3</td>
+                <td>5</td>
+            </tr>
+            <tr class="active-row">
+                <td>Test Rule 2</td>
+                <td>Fri, Jun 18, 2021 17:25</td>
+                <td>Fri, Jun 18, 2021 17:25</td>
+                <td>N/A</td>
+                <td>N/A</td>
+                <td>N/A</td>
+            </tr>
+            <!-- and so on... -->
+        </tbody>
+    </table>
+    <div style="text-align: center;">
+        <span>If you would like to unsubscribe to these alarms,</span>
+        <a style="color: #007cc2;" href="https://cleancloud.cleanair.com/login">please login to CleanCloud and
+            unsubscribe. </a>
+        <br>
+        <span>Contact CleanAir for additional assistance.</span>
+    </div>
+</body>
+
+</html>

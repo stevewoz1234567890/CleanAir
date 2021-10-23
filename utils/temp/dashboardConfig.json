@@ -1,0 +1,107 @@
+[
+    {
+        "flare": "5fb6f872b496f2ae0e0e6843",
+        "data": [
+            {
+                "id": "5fbd80320aa1ec4824bfc1c2",
+                "type": "formula",
+                "flare": "5fb6f872b496f2ae0e0e6843",
+                "header": null
+            },
+            {
+                "id": "5fbd80320aa1ec4824bfc1b8",
+                "type": "formula",
+                "flare": "5fb6f872b496f2ae0e0e6843",
+                "header": null
+            },
+            {
+                "id": "60822c8fc292731cdc9f89c8",
+                "type": "formula",
+                "flare": "5fb6f872b496f2ae0e0e6843",
+                "header": null
+            },
+            {
+                "id": "60823d1d367c362d800c1312",
+                "type": "formula",
+                "flare": "5fb6f872b496f2ae0e0e6843",
+                "header": null
+            },
+            {
+                "id": "60824035954bbb5a0885dd18",
+                "type": "formula",
+                "flare": "5fb6f872b496f2ae0e0e6843",
+                "header": null
+            }
+        ]
+    },
+    {
+        "flare": "5fb6fac8b496f2ae0e0e6844",
+        "data": [
+            {
+                "id": "5fbd80320aa1ec4824bfc1c2",
+                "type": "formula",
+                "flare": "5fb6fac8b496f2ae0e0e6844",
+                "header": null
+            },
+            {
+                "id": "5fbd80320aa1ec4824bfc1b8",
+                "type": "formula",
+                "flare": "5fb6fac8b496f2ae0e0e6844",
+                "header": null
+            },
+            {
+                "id": "60822c8fc292731cdc9f89c8",
+                "type": "formula",
+                "flare": "5fb6fac8b496f2ae0e0e6844",
+                "header": null
+            },
+            {
+                "id": "60823d1d367c362d800c1312",
+                "type": "formula",
+                "flare": "5fb6fac8b496f2ae0e0e6844",
+                "header": null
+            },
+            {
+                "id": "60824035954bbb5a0885dd18",
+                "type": "formula",
+                "flare": "5fb6fac8b496f2ae0e0e6844",
+                "header": null
+            }
+        ]
+    },
+    {
+        "flare": "5fb6fb02b496f2ae0e0e6845",
+        "data": [
+            {
+                "id": "5fbd80320aa1ec4824bfc1c2",
+                "type": "formula",
+                "flare": "5fb6fb02b496f2ae0e0e6845",
+                "header": null
+            },
+            {
+                "id": "60789bb63dc22a07f6d28ad1",
+                "type": "formula",
+                "flare": "5fb6fb02b496f2ae0e0e6845",
+                "header": "5fb6fdecedcf06ae8256c74d"
+            },
+            {
+                "id": "60822ff2e39647353cb40ce6",
+                "type": "formula",
+                "flare": "5fb6fb02b496f2ae0e0e6845",
+                "header": "5fb6fdecedcf06ae8256c74d"
+            },
+            {
+                "id": "60823db8367c362d800c1313",
+                "type": "formula",
+                "flare": "5fb6fb02b496f2ae0e0e6845",
+                "header": "5fb6fdecedcf06ae8256c74d"
+            },
+            {
+                "id": "60824035954bbb5a0885dd18",
+                "type": "formula",
+                "flare": "5fb6fb02b496f2ae0e0e6845",
+                "header": null
+            }
+        ]
+    }
+]

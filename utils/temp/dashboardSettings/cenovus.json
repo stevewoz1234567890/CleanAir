@@ -1,0 +1,143 @@
+{
+    "_id": {
+        "$oid": "5fb6b7ea6b029226f07d2677"
+    },
+    "logoUrl": "https://huskyenergy.com/images/Husky-Energy.png",
+    "widgets": [],
+    "name": "Husky Lima",
+    "logGroup": "HuskyLima",
+    "require2FA": true,
+    "__v": 0,
+    "timezone": "America/New_York",
+    "dashboard": [
+        {
+            "flare": "5fb6f872b496f2ae0e0e6843", //LIU
+            "data": [
+                {
+                    "id": "5fbd80320aa1ec4824bfc1c2", //Flare - NHVcz - Btu/scf
+                    "type": "formula",
+                    "flare": "5fb6f872b496f2ae0e0e6843",
+                    "header": null
+                },
+                {
+                    "id": "5fbd80320aa1ec4824bfc1b8", //Flow Rate - Total Vent Gas - scfh
+                    "type": "formula",
+                    "flare": "5fb6f872b496f2ae0e0e6843",
+                    "header": null
+                },
+                {
+                    "id" : "60da31292ab43a09df8b8a23",  //Header - VG VOCs - lb
+                    "type" : "formula",
+                    "flare" : "5fb6f872b496f2ae0e0e6843",
+                    "header" : "5fb6fd4cedcf06ae8256c74b" //Arom
+                },
+                {
+                    "id" : "60da31292ab43a09df8b8a23",  //Header - VG VOCs - lb
+                    "type" : "formula",
+                    "flare" : "5fb6f872b496f2ae0e0e6843",
+                    "header" : "5fb6fcecedcf06ae8256c74a" //Sweet
+                },
+                {
+                    "id" : "60823c8d367c362d800c1311",  //Header - H2S Concentration - ppm
+                    "type" : "formula",
+                    "flare" : "5fb6f872b496f2ae0e0e6843",
+                    "header" : "5fb6fd4cedcf06ae8256c74b" //Arom
+                },
+                {
+                    "id" : "60823c8d367c362d800c1311",  //Header - H2S Concentration - ppm
+                    "type" : "formula",
+                    "flare" : "5fb6f872b496f2ae0e0e6843",
+                    "header" : "5fb6fcecedcf06ae8256c74a" //Sweet
+                }
+            ]
+        },
+        {
+            "flare": "5fb6fac8b496f2ae0e0e6844", //FCC
+            "data": [
+                {
+                    "id": "5fbd80320aa1ec4824bfc1c2", //Flare - NHVcz - Btu/scf
+                    "type": "formula",
+                    "flare": "5fb6fac8b496f2ae0e0e6844",
+                    "header": null
+                },
+                {
+                    "id": "5fbd80320aa1ec4824bfc1b8", //Flow Rate - Total Vent Gas - scfh
+                    "type": "formula",
+                    "flare": "5fb6fac8b496f2ae0e0e6844",
+                    "header": null
+                },
+                {
+                    "id" : "60da31292ab43a09df8b8a23",  //Header - VG VOCs - lb
+                    "type" : "formula",
+                    "flare" : "5fb6fac8b496f2ae0e0e6844",
+                    "header" : "5fb6fc4ded5c61ae6c9c0fdf"
+                },
+                {
+                    "id" : "60823c8d367c362d800c1311",  //Header - H2S Concentration - ppm
+                    "type" : "formula",
+                    "flare" : "5fb6fac8b496f2ae0e0e6844",
+                    "header" : "5fb6fc4ded5c61ae6c9c0fdf"
+                }
+            ]
+        },
+        {
+            "flare": "5fb6fb02b496f2ae0e0e6845", //AG
+            "data": [
+                {
+                    
+                    "id": "5fbd80320aa1ec4824bfc1c2", //Flare - NHVcz - Btu/scf
+                    "type": "formula",
+                    "flare": "5fb6fb02b496f2ae0e0e6845",
+                    "header": null
+                },
+                {
+                    "id": "5fbd80320aa1ec4824bfc1b8", //Flow Rate - Total Vent Gas - scfh
+                    "type": "formula",
+                    "flare": "5fb6fb02b496f2ae0e0e6845",
+                    "header": null
+                },
+                {
+                    "id" : "60da31292ab43a09df8b8a23",  //Header - VG VOCs - lb
+                    "type" : "formula",
+                    "flare" : "5fb6fb02b496f2ae0e0e6845",
+                    "header" : "5fb6fdecedcf06ae8256c74d"
+                },
+                {
+                    "id" : "60823c8d367c362d800c1311",  //Header - H2S Concentration - ppm
+                    "type" : "formula",
+                    "flare" : "5fb6fb02b496f2ae0e0e6845",
+                    "header" : "5fb6fdecedcf06ae8256c74d"
+                }
+            ]
+        }
+    ],
+    "backfillQueue": [
+        {
+            "isCalcsComplete": {
+                "1": true,
+                "15": true,
+                "lastCalc": {
+                    "$date": "2021-07-08T11:35:46.609Z"
+                }
+            },
+            "oldestDate": {
+                "$date": "2021-07-07T00:00:00.000Z"
+            },
+            "newestDate": {
+                "$date": "2021-07-08T00:00:00.000Z"
+            },
+            "newestDateFound": {
+                "$date": "2021-07-08T00:00:00.000Z"
+            },
+            "isCalcsQueued": true,
+            "isEventsQueued": true,
+            "isEventsComplete": false,
+            "_id": {
+                "$oid": "60e6e2a6f6d9140008aea937"
+            },
+            "created": {
+                "$date": "2021-07-08T10:58:37.249Z"
+            }
+        }
+    ]
+}

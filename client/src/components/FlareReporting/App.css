@@ -1,0 +1,125 @@
+.code-block {
+  height: 30vh;
+  padding-right: 0;
+  padding-left: 0;
+  background-color: #ccc;
+  font-size: 15px;
+}
+
+.card-header {
+  text-align: center;
+}
+
+.tooltip {
+  font-size: 16px;
+  margin-top: -20px !important;
+}
+
+#data-dump .dropdown .dropdown-menu .bs-select-all {
+  display: none;
+}
+
+#chart-div-sel-row .dropdown .dropdown-menu .bs-select-all {
+  display: none;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  font-size: 50%;
+  padding-right: 2em;
+}
+
+.ant-input .ant-input-lg {
+  height: 'auto' !important;
+}
+
+.ant-select-single.ant-select-lg:not(.ant-select-customize-input)
+  .ant-select-selector {
+  height: 100% !important;
+}
+
+.ant-select-clear,
+.ant-input-clear-icon {
+  font-size: 16px !important;
+  top: 40% !important;
+  color: #ff4d4f !important;
+  right: 13px !important;
+}
+
+.ant-select-clear:hover,
+.ant-input-clear-icon:hover {
+  font-size: 16px !important;
+  top: 40% !important;
+  color: #dc3545 !important;
+  right: 13px !important;
+}
+
+.ant-picker-clear {
+  font-size: 16px !important;
+  color: #ff4d4f !important;
+}
+.ant-picker-clear:hover {
+  font-size: 16px !important;
+  color: #dc3545 !important;
+}
+
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* Tree Component CSS */
+
+.tree-node {
+  cursor: pointer;
+  padding: 1px 3px;
+}
+
+.tree-node:hover {
+  border: 1px solid lightgray;
+  background: rgb(197, 232, 243);
+}
+
+/* Table font size */
+
+.ant-table {
+  font-size: 17px;
+}
