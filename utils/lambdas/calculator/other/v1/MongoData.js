@@ -66,7 +66,7 @@ class MongoData {
           if (this.allData.flares) {
             return resolve(this.allData.flares)
           }
-          const piValueModel = this.DUBUG ? PiValuesDebug : PiValue; //await this.getCollection('pivalues')
+          const piValueModel = this.DEBUG ? PiValuesDebug : PiValue; //await this.getCollection('pivalues')
           const flares = await Flare.find({ org: orgOid }).lean().exec();
           const flareObjects = await Promise.all(flares.map(flare => {
             return new Promise((resolve, reject) => {
